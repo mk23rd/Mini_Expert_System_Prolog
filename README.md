@@ -46,5 +46,3 @@ The primary objective of this project is to streamline the academic advising pro
 The **Academic Advisor Expert System** showcases a practical application of artificial intelligence in education, demonstrating how expert systems can enhance decision-making processes. By providing clear, logical advice and explanations, this system aims to improve the academic experience for students and advisors alike.
 
 ---
-
-You can copy and paste this into your README.md file on GitHub!
